@@ -6,10 +6,9 @@ First install the dependent packages:
 ### `npm install --save tableau-api`
 ### `npm install --save react-tabs`
 ### `npm install es6-promise`
-
+### `npm install --save react-sidebar`
 
 ### HOLD FOR NOW ON THESE LIBRARIES
-### `npm install --save react-sidebar`
 ### `npm i react-cool-tabs --save`
 ### `npm install react-aria-tabpanel`
 

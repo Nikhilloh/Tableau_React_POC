@@ -5,12 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 First install the dependent packages:
 ### `npm install --save tableau-api`
 ### `npm install --save react-tabs`
+### `npm install es6-promise`
+
+
+## HOLD FOR NOW ON THESE LIBRARIES
 ### `npm install --save react-sidebar`
 ### `npm i react-cool-tabs --save`
 ### `npm install react-aria-tabpanel`
-
-
-
 
 Then Install the packages to initialize the packages.json
 

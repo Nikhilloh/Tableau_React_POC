@@ -8,11 +8,12 @@ First install the dependent packages:
 ### `npm install es6-promise`
 
 
-## HOLD FOR NOW ON THESE LIBRARIES
+### HOLD FOR NOW ON THESE LIBRARIES
 ### `npm install --save react-sidebar`
 ### `npm i react-cool-tabs --save`
 ### `npm install react-aria-tabpanel`
 
+## START FROM HERE THEN
 Then Install the packages to initialize the packages.json
 
 ### `npm install`
